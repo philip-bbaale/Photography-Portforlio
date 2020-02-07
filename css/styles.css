@@ -8,6 +8,13 @@ html, body{
   height: 80px;
   background-color: #f2f2f2;
 }
+.top h1{
+  float: right;
+  padding-right: 15%;
+  font-size: xx-large;
+  font-family: sans-serif;
+  font-weight: 900;
+}
 .row{
   margin: 15px;
   width: auto;
