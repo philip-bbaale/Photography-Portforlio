@@ -4,7 +4,19 @@ html, body{
   height: 100%;
 }
 .top{
-  width: 100%;
+  width: auto;
   height: 80px;
   background-color: #f2f2f2;
+}
+.row{
+  margin: 15px;
+  width: auto;
+  height: 350px;
+  background-color: yellowgreen;
+}
+.row_in{
+  margin: 10px;
+  width: 200px;
+  height: auto;
+  border: yellow;
 }
