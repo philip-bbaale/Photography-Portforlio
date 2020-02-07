@@ -1,5 +1,7 @@
 # Photography-Portforlio
 
+WILL BE ADDING GH-PAGES SOON AFTER WORKING ON MEDIA QUERIES 🙏️
+
 project or program name: My Photography Portfolio.
 
 author name: Namugera Bbaale Philip.
