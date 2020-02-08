@@ -5,7 +5,7 @@ html, body{
 }
 .top{
   width: auto;
-  height: 80px;
+  height: 70px;
   background-color: #f2f2f2;
 }
 .top h1{
@@ -18,14 +18,14 @@ html, body{
 .row{
   margin: 15px;
   width: auto;
-  height: 85%;
+  height: 87%;
   background-color: yellowgreen;
 }
 .row_in{
   float: left;
   margin: 20px;
-  width: 460px;
-  height: 300px;
+  width: 350px;
+  height: 230px;
   background-color: grey;
   border: 10px solid white;
 }
