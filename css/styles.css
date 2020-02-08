@@ -41,3 +41,19 @@ html, body{
 .box4{
   background-color: lightblue;
 }
+
+
+
+
+//desktop
+@media screen and (min-width: 1024px) and (max-with: 1280px) {
+
+}
+//tablet
+@media screen and (min-width: 768px) and (max-width: 1074px) {
+
+}
+//phone
+@media screen and (min-width: 320px) and (max-width: 480px) {
+
+}
