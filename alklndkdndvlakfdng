@@ -1,0 +1,138 @@
+[33mcommit 1ac49f482375861c11065ef923e3bbb311b0149f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 16:55:14 2020 +0300
+
+    adding responsiveness to iphone screens
+
+[33mcommit d6872e4549ae2bfc65f701ad044b77684758609e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/gh-pages[m[33m)[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 11:21:38 2020 +0300
+
+    I CHILL OUT
+
+[33mcommit db8981a13ecb587b887c0f10781764b651cbb58a[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 11:01:06 2020 +0300
+
+    adding @media for small screens
+
+[33mcommit ac073f97b712b329867d35ab9ce03891c1b1d961[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 10:26:16 2020 +0300
+
+    adding media queries
+
+[33mcommit ff50e95d4d780ad0838960788de8d52e9d6574f9[m
+Merge: 76f8b0f 6ea9040
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 09:09:44 2020 +0300
+
+    Merge branch 'master' of https://github.com/scrupycoco/Photography-Portforlio
+
+[33mcommit 76f8b0fcda864af7f08334b67c557e181d5c480d[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 09:07:18 2020 +0300
+
+    changing picture order
+
+[33mcommit 6a4a22f721839a21a157681e59fd88627cb38f74[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Sat Feb 8 09:05:34 2020 +0300
+
+    adding proper display for 100% on browser
+
+[33mcommit 6ea90407051e736d4b76e6f8d692d7c58ed1db8e[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 20:08:11 2020 +0300
+
+    Update README.md
+
+[33mcommit 9fe2c847e24878d4fc2ecdb68f940dd1e809cf7a[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 18:14:39 2020 +0300
+
+    Create README.md
+
+[33mcommit ac75462c247ffc016acba6970380214bf533d90e[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 18:05:20 2020 +0300
+
+    changing non displaying pictures
+
+[33mcommit f9a5b272492c5dce3da7a88233828b94a9fc0819[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:33:27 2020 +0300
+
+    adding changes to the images
+
+[33mcommit 88ec41837c531732353a50941b724ed7c5bbb710[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:25:00 2020 +0300
+
+    adding the images
+
+[33mcommit 91689099826ec1c03d3fc0b52c6905c6c37deb25[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:22:28 2020 +0300
+
+    adding all image src urls
+
+[33mcommit 0f22b989478960c2fc918f4ccda59c59a45e8742[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:20:50 2020 +0300
+
+    adding all image tags
+
+[33mcommit 5115f37ebf1fc4517e36dee778b3171d296be9ed[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:19:04 2020 +0300
+
+    adding first image for testing
+
+[33mcommit d51300c673469e2db8077ca6cf4b3f4ab6fbd83c[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:16:56 2020 +0300
+
+    adding images file
+
+[33mcommit 2d9c4bca32934191b7b6b06e06f0ac84619fff7e[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 17:07:05 2020 +0300
+
+    adding css to my nav and picture divs
+
+[33mcommit c2d06233e2b586b09636440e96f6e8616e049349[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 16:54:08 2020 +0300
+
+    adding more divs for pictures
+
+[33mcommit 3960b66f16bb45317a5cd69e0b6990dd639fee0d[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 16:37:22 2020 +0300
+
+    organising the image divs and making them bigger
+
+[33mcommit 913763cfd87c0e24af93c96eeef68adfe039e6dc[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 16:19:38 2020 +0300
+
+    adding picture divs
+
+[33mcommit d583d9c52f595d34c0bb8cf04bf5808bacfac647[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 16:08:10 2020 +0300
+
+    adding rows for picture layouts.
+
+[33mcommit 72cad879042ea818f9dc45374055b071a13f4905[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 15:59:54 2020 +0300
+
+    adding top div for title and styling it
+
+[33mcommit b7b2c6f7508e1e4b1fe44ffedf99ff943be6d6c5[m
+Author: Pip Bbaale <namugera.philip@gmail.com>
+Date:   Fri Feb 7 15:35:40 2020 +0300
+
+    adding a title
