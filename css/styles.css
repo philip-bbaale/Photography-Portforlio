@@ -77,7 +77,7 @@ background: linear-gradient(to top, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 10
   .row_in{
     margin: 50px;
     width: auto;
-    height: auto;
+    height: 100%;
     border: 15px solid white;
   }
 }
