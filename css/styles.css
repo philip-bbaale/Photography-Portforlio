@@ -6,7 +6,7 @@ html, body{
 .top{
   width: auto;
   height: 70px;
-  background-color: #f2f2f2;
+  background-color: #d9d9d9;
 }
 .top h1{
   float: right;
@@ -26,7 +26,10 @@ html, body{
   margin: 20px;
   width: 350px;
   height: 230px;
-  background-color: grey;
+  background: rgb(34,193,195);
+background: -webkit-linear-gradient(bottom, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: -o-linear-gradient(bottom, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: linear-gradient(to top, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
   border: 10px solid white;
 }
 .box1{
@@ -45,15 +48,29 @@ html, body{
 
 
 
-//desktop
 @media screen and (min-width: 1024px) and (max-with: 1280px) {
-
+  body{
+    background-color: black;
+  }
 }
-//tablet
-@media screen and (min-width: 768px) and (max-width: 1074px) {
-
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  body{
+    background-color: purple;
+  }
 }
-//phone
 @media screen and (min-width: 320px) and (max-width: 480px) {
-
+  body{
+    background-color: pink;
+  }
+  .top{
+    width: auto;
+    height: 100px;
+    padding-left: 20px;
+    background-color: #d9d9d9;
+  }
+  .row{
+    margin: 15px;
+    width: auto;
+    height: 140%;
+  }
 }
