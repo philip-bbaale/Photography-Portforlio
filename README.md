@@ -1,6 +1,5 @@
 # Photography-Portforlio
 
-WILL BE ADDING GH-PAGES SOON AFTER WORKING ON MEDIA QUERIES 🙏️
 
 project or program name: My Photography Portfolio.
 
@@ -11,7 +10,7 @@ description of project: A display page for my Photos.
 project setup instructions:Photography Portfolio
 Use the box model to lay out the presentation of your photography portfolio from the Floats exercise. Give each photo a border, and give each column a different background color.
 
-link to live site on GitHub Pages: null.
+link to live site on GitHub Pages: https://scrupycoco.github.io/Photography-Portforlio/
 
 
 copyright and license information:________
